@@ -17,7 +17,7 @@ export function LoginForm({
     <form className={cn("flex flex-col gap-6", className)} {...props}>
       <FieldGroup>
         <div className="flex flex-col items-center gap-1 text-center">
-          <h1 className="text-2xl font-bold">中电金信人员管理系统</h1>
+          <h1 className="text-2xl font-bold">人员与项目资源管理系统</h1>
           <p className="text-sm text-balance text-muted-foreground">
             中电金信数字科技（潍坊）有限公司专用
           </p>

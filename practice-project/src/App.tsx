@@ -1,8 +1,8 @@
 import { Provider } from 'react-redux'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import store from '@/store'
-import About from '@/pages/About'
-import Home from '@/pages/Home'
+import About from '@/pages'
+import Home from '@/pages/Home/Home'
 import LoginPage from '@/pages/Login'
 
 function App() {
